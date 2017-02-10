@@ -1,2 +1,4 @@
 terraform.tfstate
 terraform.tfstate.backup
+ssh/linoxide-deployer
+ssh/linoxide-deployer.pub
